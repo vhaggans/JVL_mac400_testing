@@ -2,7 +2,7 @@
 
 This *very preliminary draft* script providing a standalone, ROS-free interface to control a JVL MAC400 motor over Modbus using mac400.py. It is designed for quick testing and development, with basic safety handling.
 
-Note as of 5/19: needs to be tested. This is just a starting draft.
+Disclaimer: this code was generated code with the assistance of an AI model and still needs to be tested. This is just a starting point for ongoing testing of our MAC400 motors.
 
 ## Features
 The test script runs in a loop consisting of the following steps:
